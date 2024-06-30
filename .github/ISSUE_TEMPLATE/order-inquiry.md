@@ -6,12 +6,12 @@ labels: order inquiry
 assignees: ''
 
 ---
-
 # Order Inquiry
 If your data generation failed and want to know the cause, we can help you investigate it with your order id and email
 
 ## Rules
 1. The failed data order has to be submitted within 30 days.
+2. Please include your oder id in your issue title.
 
 ## Information Needed
 *Order Id*
