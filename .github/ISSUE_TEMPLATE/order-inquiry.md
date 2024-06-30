@@ -14,10 +14,10 @@ If your data generation failed and want to know the cause, we can help you inves
 2. Please include your oder id in your issue title.
 
 ## Information Needed
-*Order Id*
+**Order Id**
 
 The order id provided by our data generator, e.g. 006e8f8c-e69d-440f-9812-9495f3bf789b.
 
-*Email*
+**Email**
 
 The email you use to submit the data order.
